@@ -1,15 +1,41 @@
-import React, { PropTypes } from 'react';
+import React, { PropTypes } from 'react'
+import classnames from 'classnames'
+require('../styles/Default.scss')
+
+import {
+  Aligner,
+  AlignerItem,
+  AlignerItemTop,
+  AlignerItemBottom
+} from '../styles/App.scss'
+
 import Footer from './Footer'
 import Header from './Header'
 import Particules from './Particules'
 
 const App = ({ children }) => {
   return (
-    <div>
+    <div style={{
+      height: '100vh'
+    }}>
       <Particules />
-      <Header />
-      { children }
-      <Footer />
+      <div className={Aligner}>
+        <div className={classnames(AlignerItem, AlignerItemTop)}>
+          {
+            // <Header />
+          }
+        </div>
+        <div className={AlignerItem}>
+          {
+            children
+          }
+        </div>
+        <div className={classnames(AlignerItem, AlignerItemBottom)}>
+          {
+            // <Footer />
+          }
+        </div>
+      </div>
     </div>
   )
 }

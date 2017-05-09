@@ -9,7 +9,8 @@ export class Particules extends React.Component {
   }
   componentDidMount () {
     Particles.init({
-      selector: '.background'
+      selector: '.background',
+      color: '#ffffff'
     })
   }
   render () {

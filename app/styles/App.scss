@@ -1,0 +1,21 @@
+.Aligner {
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.AlignerItem {
+  flex: 1;
+  // background-color: red;
+}
+
+.AlignerItemTop {
+  align-self: flex-end;
+}
+
+.AlignerItemBottom {
+  display: flex;
+}
