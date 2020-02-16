@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/la-cascade/static/css/main.6c0dd596.chunk.css",
-    "main.js": "/la-cascade/static/js/main.0b240db5.chunk.js",
-    "main.js.map": "/la-cascade/static/js/main.0b240db5.chunk.js.map",
+    "main.css": "/la-cascade/static/css/main.478164b7.chunk.css",
+    "main.js": "/la-cascade/static/js/main.2a86a253.chunk.js",
+    "main.js.map": "/la-cascade/static/js/main.2a86a253.chunk.js.map",
     "runtime-main.js": "/la-cascade/static/js/runtime-main.049d68ee.js",
     "runtime-main.js.map": "/la-cascade/static/js/runtime-main.049d68ee.js.map",
-    "static/js/2.7c196228.chunk.js": "/la-cascade/static/js/2.7c196228.chunk.js",
-    "static/js/2.7c196228.chunk.js.map": "/la-cascade/static/js/2.7c196228.chunk.js.map",
+    "static/js/2.ab438a73.chunk.js": "/la-cascade/static/js/2.ab438a73.chunk.js",
+    "static/js/2.ab438a73.chunk.js.map": "/la-cascade/static/js/2.ab438a73.chunk.js.map",
     "index.html": "/la-cascade/index.html",
-    "precache-manifest.6b2a34dc60953d27b52f630532c0b07e.js": "/la-cascade/precache-manifest.6b2a34dc60953d27b52f630532c0b07e.js",
+    "precache-manifest.7a0a38f8baa75a8aa1c3ae236fdcca72.js": "/la-cascade/precache-manifest.7a0a38f8baa75a8aa1c3ae236fdcca72.js",
     "service-worker.js": "/la-cascade/service-worker.js",
-    "static/css/main.6c0dd596.chunk.css.map": "/la-cascade/static/css/main.6c0dd596.chunk.css.map",
-    "static/js/2.7c196228.chunk.js.LICENSE.txt": "/la-cascade/static/js/2.7c196228.chunk.js.LICENSE.txt",
-    "static/media/chalet.jpeg": "/la-cascade/static/media/chalet.d9e9a206.jpeg",
+    "static/css/main.478164b7.chunk.css.map": "/la-cascade/static/css/main.478164b7.chunk.css.map",
+    "static/js/2.ab438a73.chunk.js.LICENSE.txt": "/la-cascade/static/js/2.ab438a73.chunk.js.LICENSE.txt",
+    "static/media/chalet.png": "/la-cascade/static/media/chalet.07bc1c26.png",
     "static/media/image1.jpeg": "/la-cascade/static/media/image1.58ac2c28.jpeg",
     "static/media/image2.jpeg": "/la-cascade/static/media/image2.d3fef75a.jpeg",
     "static/media/image3.jpeg": "/la-cascade/static/media/image3.ed183654.jpeg",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.049d68ee.js",
-    "static/js/2.7c196228.chunk.js",
-    "static/css/main.6c0dd596.chunk.css",
-    "static/js/main.0b240db5.chunk.js"
+    "static/js/2.ab438a73.chunk.js",
+    "static/css/main.478164b7.chunk.css",
+    "static/js/main.2a86a253.chunk.js"
   ]
 }
