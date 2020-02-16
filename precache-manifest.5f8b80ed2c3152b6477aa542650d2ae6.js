@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d3e2920d310528eed6d17fbfd8f63b8",
+    "revision": "68dec9fcd7c3a9c0da4d5873a9cc140c",
     "url": "/la-cascade/index.html"
   },
   {
-    "revision": "12daf1534cbe37799b26",
+    "revision": "d74a636a6aded90954f3",
     "url": "/la-cascade/static/css/main.511ae627.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/la-cascade/static/js/2.154f1f6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12daf1534cbe37799b26",
-    "url": "/la-cascade/static/js/main.9ed50547.chunk.js"
+    "revision": "d74a636a6aded90954f3",
+    "url": "/la-cascade/static/js/main.efb60631.chunk.js"
   },
   {
     "revision": "9b22baa0950dd764f4c5",

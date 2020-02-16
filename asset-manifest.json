@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/la-cascade/static/css/main.511ae627.chunk.css",
-    "main.js": "/la-cascade/static/js/main.9ed50547.chunk.js",
-    "main.js.map": "/la-cascade/static/js/main.9ed50547.chunk.js.map",
+    "main.js": "/la-cascade/static/js/main.efb60631.chunk.js",
+    "main.js.map": "/la-cascade/static/js/main.efb60631.chunk.js.map",
     "runtime-main.js": "/la-cascade/static/js/runtime-main.049d68ee.js",
     "runtime-main.js.map": "/la-cascade/static/js/runtime-main.049d68ee.js.map",
     "static/js/2.154f1f6f.chunk.js": "/la-cascade/static/js/2.154f1f6f.chunk.js",
     "static/js/2.154f1f6f.chunk.js.map": "/la-cascade/static/js/2.154f1f6f.chunk.js.map",
     "index.html": "/la-cascade/index.html",
-    "precache-manifest.5e1dcf4115d5b296054f88308771325e.js": "/la-cascade/precache-manifest.5e1dcf4115d5b296054f88308771325e.js",
+    "precache-manifest.5f8b80ed2c3152b6477aa542650d2ae6.js": "/la-cascade/precache-manifest.5f8b80ed2c3152b6477aa542650d2ae6.js",
     "service-worker.js": "/la-cascade/service-worker.js",
     "static/css/main.511ae627.chunk.css.map": "/la-cascade/static/css/main.511ae627.chunk.css.map",
     "static/js/2.154f1f6f.chunk.js.LICENSE.txt": "/la-cascade/static/js/2.154f1f6f.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.049d68ee.js",
     "static/js/2.154f1f6f.chunk.js",
     "static/css/main.511ae627.chunk.css",
-    "static/js/main.9ed50547.chunk.js"
+    "static/js/main.efb60631.chunk.js"
   ]
 }
