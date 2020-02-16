@@ -5,16 +5,7 @@ import classnames from 'classnames'
 const PersonalCard = () => {
   return (
     <div className={personalCard}>
-      <img className={
-        classnames(circle, logo)
-      } src='app/images/clemDelp.jpg' />
-      <div className={name}>ClemDelp</div>
-      <p>Frontend engineer @snips</p>
-      <div>
-        <button>GITHUB</button>
-        <button>ARTICLES</button>
-      </div>
-
+      <h1>La Cascade</h1>
     </div>
   )
 }

@@ -11,19 +11,15 @@ import {
 
 import Footer from './Footer'
 import Header from './Header'
-import Particules from './Particules'
 
 const App = ({ children }) => {
   return (
     <div style={{
       height: '100vh'
     }}>
-      <Particules />
       <div className={Aligner}>
         <div className={classnames(AlignerItem, AlignerItemTop)}>
-          {
-            // <Header />
-          }
+          <Header />
         </div>
         <div className={AlignerItem}>
           {
@@ -31,9 +27,7 @@ const App = ({ children }) => {
           }
         </div>
         <div className={classnames(AlignerItem, AlignerItemBottom)}>
-          {
-            // <Footer />
-          }
+          <Footer />
         </div>
       </div>
     </div>
