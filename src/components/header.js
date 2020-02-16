@@ -38,6 +38,12 @@ export default function Header() {
           <Button color="inherit">
             <Link className='App__header--link' to="/disponibility">Disponibilités</Link>
           </Button>
+          <Button color="inherit">
+            <Link className='App__header--link' to="/comite">Comité</Link>
+          </Button>
+          <Button color="inherit">
+            <Link className='App__header--link' to="/club">Le Club</Link>
+          </Button>
         </Toolbar>
       </AppBar>
     </div>

@@ -22,18 +22,17 @@ export default function Galerie() {
     image9
   ]
   return (
-    <div className='center'>
+    <div>
+      <h1 className="px3">Galerie</h1>
+      <div className='center'>
       {
         images && images.map((image, i) => {
           return (
-            <img
-              key={i}
-              className='p1'
-              src={image}
-            />
+            <img key={i} className='p1' src={image} alt={`${i}`} />
           )
         })
       }
+    </div>
     </div>
   );
 }
