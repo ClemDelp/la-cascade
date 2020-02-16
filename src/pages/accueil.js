@@ -3,6 +3,8 @@ import chalet from '../images/chalet.png';
 import './accueil.scss'
 import ContactForm from '../components/contact'
 import Button from '@material-ui/core/Button'
+import { Link } from "react-router-dom";
+import GetAppIcon from '@material-ui/icons/GetApp';
 
 export default function Accueil() {
   return (
@@ -16,16 +18,19 @@ export default function Accueil() {
         <div className='px4 col col-6'>
           <h1>La Cascade</h1>
           <hr />
-          <p className='mb2'>L'histoire du chalet ???? ..... Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset </p>
+          <p className='mb2'>Présentation... Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset </p>
           <div className='flex'>
             <div className='mr1'>
-              <Button variant="outlined" color="primary" href='/comite'>
-                Le comité
+              <Button variant="outlined" color="primary">
+                <Link className='App__header--link' to="/comite">Le comité</Link>
               </Button>
             </div>
-            
-            <Button variant="outlined" color="primary"  href='/club'>
-              Le club
+            <Button
+              variant="outlined"
+              color="primary"
+              startIcon={<GetAppIcon />}
+            >
+              Les status du club
             </Button>
           </div>
         </div>
