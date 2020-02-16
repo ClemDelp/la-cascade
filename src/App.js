@@ -6,23 +6,26 @@ import Accueil from "./pages/accueil";
 import Galerie from "./pages/galerie";
 import './App.scss'
 import Header from "./components/header";
+import Footer from "./components/footer";
 
 export default function BasicExample() {
   return (
     <Router>
-      <div className='App relative'>
-        <div className='fixed' style={{zIndex: '10', width: '100%'}}>
+      <div className='App'>
+        <div className='fixed' style={{width: '100%'}}>
           <Header />
         </div>
-        
-        <Switch>
-          <Route exact path="/"><Accueil /></Route>
-          {/* we need this pt4 to take in consideration header height */}
-          <div className='pt4'>
+
+        <div className='flex py4'>
+          <Switch>
+            <Route exact path="/"><Accueil /></Route>
             <Route path="/galerie"><Galerie /></Route>
             <Route path="/disponibility"><Disponibility /></Route>
-          </div>
-        </Switch>
+          </Switch>
+        </div>
+
+        <Footer />
+
       </div>
     </Router>
   );
