@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Reservation from "./pages/reservation";
+import Disponibility from "./pages/disponibility";
 import Accueil from "./pages/accueil";
 import Galerie from "./pages/galerie";
 import './App.scss'
@@ -11,7 +11,7 @@ export default function BasicExample() {
   return (
     <Router>
       <div className='App relative'>
-        <div className='absolute' style={{zIndex: '10', width: '100%'}}>
+        <div className='fixed' style={{zIndex: '10', width: '100%'}}>
           <Header />
         </div>
         
@@ -20,7 +20,7 @@ export default function BasicExample() {
           {/* we need this pt4 to take in consideration header height */}
           <div className='pt4'>
             <Route path="/galerie"><Galerie /></Route>
-            <Route path="/reservation"><Reservation /></Route>
+            <Route path="/disponibility"><Disponibility /></Route>
           </div>
         </Switch>
       </div>

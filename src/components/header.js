@@ -36,7 +36,7 @@ export default function Header() {
             <Link className='App__header--link' to="/galerie">Galerie</Link>
           </Button>
           <Button color="inherit">
-            <Link className='App__header--link' to="/reservation">Réservation</Link>
+            <Link className='App__header--link' to="/disponibility">Disponibilités</Link>
           </Button>
         </Toolbar>
       </AppBar>
