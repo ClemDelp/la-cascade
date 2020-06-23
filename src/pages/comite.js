@@ -7,36 +7,52 @@ import PersonIcon from '@material-ui/icons/Person';
 
 const COMITE = [
   {
-    "status": "PRÉSIDENT",
-    "name": "Georges Hoffmeyer"
+    "status": "PRÉSIDENTE",
+    "name": "Follonier Valérie",
+    "phone": "+41 (0)79 416 24 10",
+    "email": "Valtouse8573@gmail.com"
   },
   {
-    "status": "VICE PRÉSIDENT",
-    "name": "Armand Bastide"
+    "status": "Vice-présidente - Responsable réservations",
+    "name": "Latini Magali",
+    "phone": "+41(0)79 312 99 42",
+    "email": "magalilatini@gmail.com"
   },
   {
-    "status": "RESPONSABLE DE CABANE",
-    "name": "Freddy Borner"
+    "status": "Trésorière",
+    "name": "Hoffmeyer Danièle",
+    "phone": "+41 (0)79 856 98 03",
+    "email": "daniele.hoffmeyer@gmail.com" 
   },
   {
-    "status": "TRÉSORIÈRE",
-    "name": "Danièle Hoffmeyer"
+    "status": "Responsable Sports et loisirs",
+    "name": "Muller Jacques",
+    "phone": "+41 (0)79 935 01 11",
+    "email": "jf.muller1@gmail.com"
   },
   {
-    "status": "SECRÉTAIRE",
-    "name": "Jacqueline Powell"
+    "status": "Secrétaire",
+    "name": "Powell Jacqueline",
+    "phone": "+41(0)76 383 45 94",
+    "email": "jacq.powell@gmail.com"
   },
   {
-    "status": "SECRÉTAIRE RÉSERVATION",
-    "name": "Magali Latini"
+    "status": "",
+    "name": "Borner Alfred",
+    "phone": "+41(0)79 449 57 16",
+    "email": "freddy.borner@icloud.com"
   },
   {
-    "status": "RESPONSABLE SPORTS ET LOISIRS",
-    "name": "Jacques Muller"
+    "status": "",
+    "name": "Hoffmeyer Fabien",
+    "phone": "+41 (0)78 791 89 23",
+    "email": "befa1227@hotmail.com"
   },
   {
-    "status": "MEMBRE ADJOINT",
-    "name": "Jean-Daniel Vez"
+    "status": "",
+    "name": "Hoffmeyer Georges",
+    "phone": "+33 (0)78 988 61 43",
+    "email": "georges.hoffmeyer@me.com"
   }
 ]
 
@@ -74,6 +90,9 @@ export default function Comite() {
                   </Typography>
                   <Typography className={classes.title} color="textSecondary" gutterBottom>
                     {c.name}
+                  </Typography>
+                  <Typography className={classes.title} color="textSecondary" gutterBottom>
+                    {c.email} | {c.phone} 
                   </Typography>
                 </CardContent>
               </Card>

@@ -18,7 +18,9 @@ export default function Accueil() {
         <div className='px4 col col-6'>
           <h1>La Cascade</h1>
           <hr />
-          <p className='mb2'>Présentation... Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset </p>
+          <p className='mb2'>Affilié au SATUS, <a href='http://www.satus-geneve.ch' target='_blank'>www.satus-geneve.ch</a>, La Cascade est un club familial qui offre à ses membres des activités en montagne et un chalet situé à La Cry, au-dessus de St Gervais-les-Bains.</p>
+          <p className='mb2'>Dès sa création, le club fonctionne grâce au bénévolat de ses membres et témoigne d’une volonté de permettre à tous de profiter de la montagne.</p>
+          <p className='mb2'>Le chalet, construit par les membres fondateurs dans les années 1940, est entretenu par ses membres lors de journées de travail en commun.</p>
           <div className='flex'>
             <div className='mr1'>
               <Button variant="outlined" color="primary">
