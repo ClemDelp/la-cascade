@@ -10,14 +10,14 @@ export default function Trafic() {
         <h1>Tarif 2017</h1>
         <h2>MEMBRE ACTIF CASCADE</h2>
         <hr className='full-width' />
-        <p>Jusqu'à 10 ans révolus 0.- € (Gratuit)</p>
+        <p>Jusqu'à 9 ans révolus 0.- € (Gratuit)</p>
         <p>De 10 à 17 ans 6.- €</p>
         <p>Dès 18 ans révolus 12.- €</p>
 
         <h2>MEMBRE PASSIF CASCADE</h2>
         <hr className='full-width' />
         <p>Carte de membre passif valable 1 année</p>
-        <p>Jusqu'à 10 ans révolus 0.- € (Gratuit)</p>
+        <p>Jusqu'à 9 ans révolus 0.- € (Gratuit)</p>
         <p>De 10 à 17 ans 10.- €</p>
         <p>Dès 18 ans révolus 20.- €</p>
 
