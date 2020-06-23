@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/la-cascade/static/css/main.9f23f8f9.chunk.css",
-    "main.js": "/la-cascade/static/js/main.11eb62d5.chunk.js",
-    "main.js.map": "/la-cascade/static/js/main.11eb62d5.chunk.js.map",
+    "main.css": "/la-cascade/static/css/main.61a545f9.chunk.css",
+    "main.js": "/la-cascade/static/js/main.d9a96ea8.chunk.js",
+    "main.js.map": "/la-cascade/static/js/main.d9a96ea8.chunk.js.map",
     "runtime-main.js": "/la-cascade/static/js/runtime-main.049d68ee.js",
     "runtime-main.js.map": "/la-cascade/static/js/runtime-main.049d68ee.js.map",
-    "static/js/2.d016a5cc.chunk.js": "/la-cascade/static/js/2.d016a5cc.chunk.js",
-    "static/js/2.d016a5cc.chunk.js.map": "/la-cascade/static/js/2.d016a5cc.chunk.js.map",
+    "static/js/2.12127ec6.chunk.js": "/la-cascade/static/js/2.12127ec6.chunk.js",
+    "static/js/2.12127ec6.chunk.js.map": "/la-cascade/static/js/2.12127ec6.chunk.js.map",
     "index.html": "/la-cascade/index.html",
-    "precache-manifest.8fea9809092bcdbbafd33f0b9373ce94.js": "/la-cascade/precache-manifest.8fea9809092bcdbbafd33f0b9373ce94.js",
+    "precache-manifest.02e23eaa62911e37cd8ee1156e90a538.js": "/la-cascade/precache-manifest.02e23eaa62911e37cd8ee1156e90a538.js",
     "service-worker.js": "/la-cascade/service-worker.js",
-    "static/css/main.9f23f8f9.chunk.css.map": "/la-cascade/static/css/main.9f23f8f9.chunk.css.map",
-    "static/js/2.d016a5cc.chunk.js.LICENSE.txt": "/la-cascade/static/js/2.d016a5cc.chunk.js.LICENSE.txt",
+    "static/css/main.61a545f9.chunk.css.map": "/la-cascade/static/css/main.61a545f9.chunk.css.map",
+    "static/js/2.12127ec6.chunk.js.LICENSE.txt": "/la-cascade/static/js/2.12127ec6.chunk.js.LICENSE.txt",
+    "static/media/cascade.png": "/la-cascade/static/media/cascade.1157577f.png",
     "static/media/chalet.png": "/la-cascade/static/media/chalet.07bc1c26.png",
     "static/media/image1.jpeg": "/la-cascade/static/media/image1.58ac2c28.jpeg",
     "static/media/image2.jpeg": "/la-cascade/static/media/image2.d3fef75a.jpeg",
@@ -21,12 +22,14 @@
     "static/media/image6.jpeg": "/la-cascade/static/media/image6.b2b485a2.jpeg",
     "static/media/image7.jpeg": "/la-cascade/static/media/image7.3b23f374.jpeg",
     "static/media/image8.jpeg": "/la-cascade/static/media/image8.44224108.jpeg",
-    "static/media/image9.jpeg": "/la-cascade/static/media/image9.77d01c58.jpeg"
+    "static/media/image9.jpeg": "/la-cascade/static/media/image9.77d01c58.jpeg",
+    "static/media/mb_vue.png": "/la-cascade/static/media/mb_vue.d3a0bba3.png",
+    "static/media/rando.png": "/la-cascade/static/media/rando.e75a2f32.png"
   },
   "entrypoints": [
     "static/js/runtime-main.049d68ee.js",
-    "static/js/2.d016a5cc.chunk.js",
-    "static/css/main.9f23f8f9.chunk.css",
-    "static/js/main.11eb62d5.chunk.js"
+    "static/js/2.12127ec6.chunk.js",
+    "static/css/main.61a545f9.chunk.css",
+    "static/js/main.d9a96ea8.chunk.js"
   ]
 }

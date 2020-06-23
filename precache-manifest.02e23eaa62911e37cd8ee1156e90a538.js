@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7f2e9ac6a9b0695ffc5629668ccca21",
+    "revision": "10903e15eb5188315cca12998c86935a",
     "url": "/la-cascade/index.html"
   },
   {
-    "revision": "3a73580fe72c5d2a2e5d",
-    "url": "/la-cascade/static/css/main.9f23f8f9.chunk.css"
+    "revision": "8464b1df14cf3d189ba0",
+    "url": "/la-cascade/static/css/main.61a545f9.chunk.css"
   },
   {
-    "revision": "6e13c2324b7726ade4d5",
-    "url": "/la-cascade/static/js/2.d016a5cc.chunk.js"
+    "revision": "162978f41f2ef7ebc5d0",
+    "url": "/la-cascade/static/js/2.12127ec6.chunk.js"
   },
   {
     "revision": "3adc01bea76e7956dc3633ee898f6936",
-    "url": "/la-cascade/static/js/2.d016a5cc.chunk.js.LICENSE.txt"
+    "url": "/la-cascade/static/js/2.12127ec6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a73580fe72c5d2a2e5d",
-    "url": "/la-cascade/static/js/main.11eb62d5.chunk.js"
+    "revision": "8464b1df14cf3d189ba0",
+    "url": "/la-cascade/static/js/main.d9a96ea8.chunk.js"
   },
   {
     "revision": "9b22baa0950dd764f4c5",
     "url": "/la-cascade/static/js/runtime-main.049d68ee.js"
+  },
+  {
+    "revision": "1157577fca674c4c3b9a472c2cf660e2",
+    "url": "/la-cascade/static/media/cascade.1157577f.png"
   },
   {
     "revision": "07bc1c262cdf449a03d7554e0458bfd6",
@@ -62,5 +66,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "77d01c58ae52ee745f809537fec34278",
     "url": "/la-cascade/static/media/image9.77d01c58.jpeg"
+  },
+  {
+    "revision": "d3a0bba3cbfeba03a74f21db8dbf766c",
+    "url": "/la-cascade/static/media/mb_vue.d3a0bba3.png"
+  },
+  {
+    "revision": "e75a2f32554e98529b0d86dc4b9946c1",
+    "url": "/la-cascade/static/media/rando.e75a2f32.png"
   }
 ]);
