@@ -7,7 +7,7 @@ export default function Trafic() {
   return (
     <div className='full-width'>
       <div className='flex flex-column justify-center items-center'>
-        <h1>Tarif 2017</h1>
+        <h1>Tarif 2019</h1>
         <h2>MEMBRE ACTIF CASCADE</h2>
         <hr className='full-width' />
         <p>Jusqu'à 9 ans révolus 0.- € (Gratuit)</p>
