@@ -41,7 +41,7 @@ export default function Accueil() {
             >
               <Link
                 className='App__header--link'
-                to="/la-cascade/pdf/CASCADE_STATUTS.pdf"
+                to="/la-cascade/pdf/CASCADE_STATUTS_2019.pdf"
                 target="_blank"
               >Les status du club</Link>
             </Button>
