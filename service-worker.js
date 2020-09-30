@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/la-cascade/precache-manifest.fe9d0e82df94bd5a5002b40701f1472f.js"
+  "/la-cascade/precache-manifest.8776f4c6168cf80cf2d9a2a7395ebd66.js"
 );
 
 self.addEventListener('message', (event) => {
